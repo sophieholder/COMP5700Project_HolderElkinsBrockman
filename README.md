@@ -8,7 +8,7 @@ Pipeline that extracts key data elements (KDEs) and requirements from CIS Docker
 |       Name       | Banner ID |  University Email  |
 |------------------|-----------|--------------------|
 | Sophie Holder    | 904365730 | slh0140@auburn.edu |
-| Elise Elkins     | 904000000 | eme0037@auburn.edu |
+| Elise Elkins     | 904280244 | eme0037@auburn.edu |
 | Vivian Brockman  | 904000000 | vmb0020@auburn.edu |
 
 ## LLM used for Task-1
